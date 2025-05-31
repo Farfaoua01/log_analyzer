@@ -1,0 +1,5 @@
+2023-10-01 08:30:45 INFO: Système démarré
+2023-10-01 08:31:10 ERROR: Échec de connexion à la base de données
+2023-10-01 08:32:00 WARNING: Espace disque à 90%
+2023-10-01 08:33:22 INFO: Utilisateur "admin" connecté
+2023-10-01 08:35:17 ERROR: Timeout sur l'API externe
